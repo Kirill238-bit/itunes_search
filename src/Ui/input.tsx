@@ -1,5 +1,5 @@
 import { CloseOutlined } from '@ant-design/icons'
-import { ChangeEvent,FC} from 'react'
+import { ChangeEvent, FC } from 'react'
 import styled from 'styled-components'
 
 

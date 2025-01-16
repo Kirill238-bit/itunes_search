@@ -1,6 +1,5 @@
 import { IItunesDataType } from '@/types/ItunesDataType'
-import Link from 'next/link'
-import React, { FC } from 'react'
+import { FC } from 'react'
 import styled from 'styled-components'
 
 interface IProps {
